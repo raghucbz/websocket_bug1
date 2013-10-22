@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/auction" />
+    <file type="web" url="file://$PROJECT_DIR$/draw" />
+    <file type="web" url="file://$PROJECT_DIR$/server" />
+  </component>
+  <component name="IdProvider" IDEtalkID="AB01E481E30469806A2B9CA866D9BD63" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/auction/pom.xml" />
+        <option value="$PROJECT_DIR$/draw/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+  <component name="WebServicesPlugin" addRequiredLibraries="true" />
+</project>
+
